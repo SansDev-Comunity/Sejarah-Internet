@@ -12,3 +12,4 @@ Langkah-langkah Detail Kerja WWW:
 5. Permintaan ke Server (HTTP Request): Browser mengirimkan permintaan HTTP ke server yang alamat IP-nya didapat dari DNS, meminta file halaman web.
 6. Respons dari Server (HTTP Response): Server menemukan halaman yang diminta dan mengirimkan file-file penyusunnya (HTML, CSS, JavaScript, gambar) kembali ke browser.
 7. Interaksi: Pengguna dapat berinteraksi dengan elemen JavaScript, yang bisa memicu permintaan tambahan ke server jika diperlukan (misalnya memuat lebih banyak konten). 
+8. Halaman Web adalah file-file yang di simpan dalam komputer tersebut di kenal dengan nama istilah web server
