@@ -31,6 +31,5 @@ mengubah konfigurasi Domain Name Server (DNS)
 memiliki penyedia layanan Internet (Internet Service Provider - ISP) pada tanggal 9 juli 2012 kemarin,
 FBI di perntahkan untuk mematikan DNS yang di duga akan membuat komputer di berbagai belahan dunia tidak mengakses internet.
 
-ketika mengetikan halaman web seperti 
-
+ketika mengetikan halaman web seperti www.google.com ternyata itu tidak terjadi. orang-orang tetap dapat mengakses internet taanpa hambatan.
 
