@@ -26,6 +26,11 @@ di jaringan komputer.
 Singkatnya komputer hanya mengenal IP Address, Dengan DNS cukup mengingat www.google.com.
 nanti akan menerjamahkan menjadi 173.194.38.165
 
-berkaitan dengan DNS, 9 juli 2012 internet yang teradi, telah terbesar DNS Changer ke seluruh dunia,
+Berkaitan dengan DNS, 9 juli 2012 internet yang teradi, telah terbesar DNS Changer ke seluruh dunia,
 mengubah konfigurasi Domain Name Server (DNS)
-memiliki penyedia layanan Internet (Internet Service Provider - ISP)
+memiliki penyedia layanan Internet (Internet Service Provider - ISP) pada tanggal 9 juli 2012 kemarin,
+FBI di perntahkan untuk mematikan DNS yang di duga akan membuat komputer di berbagai belahan dunia tidak mengakses internet.
+
+ketika mengetikan halaman web seperti 
+
+
