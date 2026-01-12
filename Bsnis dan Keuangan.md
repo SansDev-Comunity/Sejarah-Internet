@@ -17,3 +17,6 @@ Pendapatan Negara Indonesia sebesar 1.743,6 Triliun Rupiah, Google adalah Search
 
 dengan modal aset knowladge, saat ini google menambah produk seperti YouTube, Blogspot, Google Maps, Android,
 Google Glass, dll.
+
+
+<img width="650" height="700" alt="image" src="https://www.statista.com/graphic/1/266206/googles-annual-global-revenue.jpg" />
