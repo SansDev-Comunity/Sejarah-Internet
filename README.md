@@ -1,6 +1,18 @@
 # Sejarah-Internet
 
-# Pendahuluan
+# Pendahuluan & Sylabus 
+
+1. Sejarah Internet
+2. World Wide Web
+3. Bagaimana WWW bekerja
+4. Bagaimana Browser Menampilkan Halaman Web
+5. Bagaimana HTTP Bekerja
+6. Statistik Pengguna Internet
+7. Statistik Pengguna Internet Dunia
+8. Kekuatan Internet
+9. Bisnis dan Keuangan
+10. Sosial
+11. Entertaiment
 
 ## 1.1 Sejarah Internet
 Internet adalah jaringan global yang menghubungkan komputer-komputer di seluruh dunia.
